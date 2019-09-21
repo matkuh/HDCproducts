@@ -8,6 +8,11 @@
     background-color: #F8F9FA !important;
     border-color: #F8F9FA !important; 
 }
+
+.imgcont {
+  display:flex;
+  align-items:center;
+}
 /* .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
