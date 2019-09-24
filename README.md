@@ -1,3 +1,3 @@
 # HDCproducts
 
-Deployed Link - https://matkuh.github.io/HDCproducts/
+Deployed Link - hdcproducts.tk
