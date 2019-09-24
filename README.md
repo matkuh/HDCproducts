@@ -1,3 +1,3 @@
 # HDCproducts
 
-Deployed Link - hdcproducts.tk
+Deployed Link - http://hdcproducts.tk/
